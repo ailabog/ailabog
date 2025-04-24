@@ -6,7 +6,7 @@ I'm **Aila**, an automation developer in test — passionate about clean archite
 
 📘 I'm the author of [_Navigate the Automation Seas_](https://www.amazon.com/Navigate-Automation-Seas-Practical-Showcases-ebook/dp/B0DHYGGSDF/) — a practical guide to building scalable APIs and integrating Kafka for real-time streaming.
 
-👉 Check out the [**code companion repo**](https://github.com/yourusername/navigate-automation-seas) for live examples, API design patterns, and automation workflows!
+👉 Check out the [**code companion repo**](https://github.com/ailabog/navigate-automation-seas) for live examples, API design patterns, and automation workflows!
 
 ---
 
